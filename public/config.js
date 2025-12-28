@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "",
   "VITE_DISCORD_URL": "",
   "VITE_TWITTER_URL": "",
-  "VITE_SEO_SITE_NAME": "",
+  "VITE_SEO_SITE_NAME": "MyDEX\"><b>TEST</b>",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://dex.orderly.network/riad-alrashed-7433/",
   "VITE_SEO_SITE_LANGUAGE": "en",
